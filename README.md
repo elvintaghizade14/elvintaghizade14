@@ -13,19 +13,20 @@
   - `Instagram` - [Elvin Taghizade]()
   - lives in `Baku, Azerbaijan`
 
+
 ## Education
 
   - Master of Computer Science at [The Academy of Public Administration under the President of the Republic of Azerbaijan](http://dia.edu.az/en/)
   - Bachelor of Business Administration at joint program of [Azerbaijan State Oil and Industry university](http://www.asoiu.edu.az/az) (Baku/Azerbaijan) and [Georgia State university](https://www.gsu.edu/) (Atlanta/USA)
   - Pupil at [Lahich Full Secondary School](https://www.facebook.com/Lah%C4%B1c-m%C9%99kt%C9%99bi-306598886722713/)
-
-<br>
+  
 
 ## Work Experience
 
   - Software Project Manager at [Tech Academy](https://www.tech.edu.az/) & [Innoland Incubation and Acceleration Center](http://innoland.az/)
   - Private Math Teacher
   - Cashier & Salesperson at [Mc Donald's](https://mcdonalds.az/)
+
 
 ## Skills
   
@@ -56,6 +57,7 @@
     - PERT, CPM analysis
     - Microsoft Project
 
+
 ## Courses & Trainings
 
   - 0-to-end Java [with Sarkhan Rasullu at Udemy](https://www.udemy.com/course/java-azerbaycan-dilinde/learn/lecture/18506614?start=2445#overview)
@@ -65,14 +67,13 @@
   - Fundamentals of Programming at [Tech Academy](https://www.tech.edu.az/)
   - General English at [World Language Center](https://www.facebook.com/worldlc.eu/)
 
+
 ## Languages
   - `Azerbaijani`:  ------  Native or bilingual proficiency
   - `English`:  ----------  Full professional proficiency
   - `German`:   ----------  Elementary proficiency
   - `Turkish`:  ----------  Limited working proficiency
 
-<br>
-<br>
 
 # REFERENCES
   - [`Samir Osmanov`](samirosmanov1988@gmail.com)
