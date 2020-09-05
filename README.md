@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer!
 
-<br>
+## Patience is the key to victory! 
 
 ## Contact
   - `E-mail me` - elvintaghiyev184@gmail.com
