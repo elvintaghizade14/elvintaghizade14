@@ -71,7 +71,7 @@
 ## Languages
   - `Azerbaijani`:  ------  Native or bilingual proficiency
   - `English`:  ----------  Full professional proficiency
-  - `German`:   ----------  Elementary proficiency
+  - `German`:   -----------  Elementary proficiency
   - `Turkish`:  ----------  Limited working proficiency
 
 
