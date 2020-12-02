@@ -34,7 +34,7 @@
   - Computer Hardware & Networking & OS:
     - Computer architecture (IT helpdesk)
     - Networking (OSI, TCP/IP)
-    - Windows (DOM, 7, 8.1, 10), Linux (Ubuntu), Android (4.0+)
+    - Windows (DOS, 7, 8.1, 10), Linux (Ubuntu :heart_eyes: ), Android (4.0+)
     - Microsoft Office (Word, Excel, PowerPoint, Access, Project)
 
   - Software Developement:
