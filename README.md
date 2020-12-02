@@ -22,7 +22,8 @@
   
 
 ## Work Experience
-
+  
+  - Software Engineer (Java Developer) at [X company](https://www.google.com/)
   - Software Project Manager at [Tech Academy](https://www.tech.edu.az/) & [Innoland Incubation and Acceleration Center](http://innoland.az/)
   - Private Math Teacher
   - Cashier & Salesperson at [Mc Donald's](https://mcdonalds.az/)
@@ -38,8 +39,8 @@
 
   - Software Developement:
     - Java, C, C++, Python, SQL, HTML, CSS (Bootstrap), JS (jQuery)
-    - Strong Object-Oriented Programming (OOP)
-    - Data Structures & Algorithms
+    - Strong Object-Oriented Programming (OOP), Some Functional Programming knowledge
+    - Strong Data Structures & Algorithms
     - Java SE (Fundamentals, Core, Stream API, Collections API, Threads, JDBC)
     - Java EE (Servlet, Cookie, Filter, Session, Request, Response, HTTP, HTTPs)
     - Spring framework (Core, Boot, MVC, Data, Security)
