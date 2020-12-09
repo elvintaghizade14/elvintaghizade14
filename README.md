@@ -9,8 +9,8 @@
   - `Phone me`  - +994 (55) 396 93 32
   - `Linkedin`  - [Elvin Taghizade](https://www.linkedin.com/in/elvintaghizade14/)
   - `Twitter`   - [Elvin Taghizade](https://twitter.com/elvin_taghizade)
-  - `Facebook`  - [Elvin Taghizade](https://www.facebook.com/in/elvin.taghizade.1414/)
-  - `Instagram` - [Elvin Taghizade]()
+  - `Facebook`  - [Elvin Taghizade](https://www.facebook.com/taghizade.elvin.14)
+  - `Instagram` - [Elvin Taghizade](https://www.instagram.com/elvintaghizade14/)
   - lives in `Baku, Azerbaijan`
 
 
@@ -26,29 +26,27 @@
   - Software Engineer (Java Developer) at [X company](https://www.google.com/)
   - Software Project Manager at [Tech Academy](https://www.tech.edu.az/) & [Innoland Incubation and Acceleration Center](http://innoland.az/)
   - Private Math Teacher
-  - Cashier & Salesperson at [Mc Donald's](https://mcdonalds.az/)
-
 
 ## Skills
   
-  - Computer Hardware & Networking & OS:
+  - IT - Computer Hardware & Networking & OS & Software:
     - Computer architecture (IT helpdesk)
     - Networking (OSI, TCP/IP)
     - Windows (DOS, 7, 8.1, 10), Linux (Ubuntu :heart_eyes: ), Android (4.0+)
-    - Microsoft Office (Word, Excel, PowerPoint, Access, Project)
+    - Microsoft Office (Word, Excel, PowerPoint, Access, Project, Outlook, OneDrive)
 
   - Software Developement:
-    - Java, C, C++, Python, SQL, HTML, CSS (Bootstrap), JS (jQuery)
-    - Strong Object-Oriented Programming (OOP), Some Functional Programming knowledge
-    - Strong Data Structures & Algorithms
-    - Java SE (Fundamentals, Core, Stream API, Collections API, Threads, JDBC)
-    - Java EE (Servlet, Cookie, Filter, Session, Request, Response, HTTP, HTTPs)
-    - Spring framework (Core, Boot, MVC, Data, Security)
-    - JPA - Hibernate, Oracle SQL developer, MySQL, PostgreSQL, SQLite, H2
-    - Freemarker, Thymeleaf, JSP, Encryption, REST API
-    - Apache Tomcat, Eclipse GlassFish, Ant, Maven, Unit testing (JUnit)
+    - Java, C, C++, Python, SQL, T-SQL, HTML, CSS (Bootstrap), JS (jQuery)
+    - Strong `Object-Oriented Programming (OOP)`, basic `Functional Programming` knowledge
+    - Strong `Data Structures & Algorithms (DSA)`
+    - `Java SE` (Fundamentals, Core, Stream API, Collections API, Threads, JDBC)
+    - `Java EE` (Servlet, Cookie, Filter, Session, Request, Response, HTTP, HTTPs)
+    - `Spring` framework (Core, Boot, MVC, Data, Security)
+    - JPA - Hibernate, Oracle SQL, MsSQL Server, MySQL, PostgreSQL, SQLite, H2
+    - Freemarker, Thymeleaf, JSP, Encryption, `REST API`, `Jsoup`
+    - `Apache Tomcat`, Eclipse GlassFish, Ant, `Maven`, Unit testing (JUnit)
     - Version Control Systems (Git -> GitHub, GitLab)
-    - Software Design Patterns, Best Practices, Clean code, SOLID Principles, Problem Solving
+    - Software Design Patterns, Best Practices, Clean code, SOLID Principles, `Problem Solving`
     - SDLC, KISS, DRY, Decision Making, Stress Tolerance, Soft Skills
 
   - Project Management:
@@ -79,3 +77,4 @@
 # REFERENCES
   - [`Samir Osmanov`](samirosmanov1988@gmail.com)
   - [`Alexey Rykhalskiy`](alexey.rykhalskiy@gmail.com)
+  - [`Sarkhan Rasullu`](sarkhanrasullu@gmail.com)
